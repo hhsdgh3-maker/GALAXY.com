@@ -1,1 +1,1 @@
-# GALAXY.com
+# galaxy.com
