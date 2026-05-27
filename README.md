@@ -1,1 +1,1 @@
-# galaxy.com
+# , galaxysmp
